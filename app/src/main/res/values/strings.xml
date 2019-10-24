@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="profile">PROFILE</string>
+    <string name="dial_up">DIAL UP</string>
+    <string name="gggggggggggg">gggggggggggg</string>
+    <string name="kkkkkk">kkkkkk</string>
+    <string name="back">BACK</string>
+    <string name="review">REVIEW</string>
+    <string name="dial">DIAL</string>
+    <string name="ok">OK</string>
+    <string name="edit">EDIT</string>
+</resources>
